@@ -1,5 +1,7 @@
 # crawl_douban
 爬取豆瓣电影并进行简单可视化
+需要在deal.py文件内设置字体路径，防止中文乱码
+
 
 先运行get_text.py会生成三个txt，后运行deal.py会生成数据处理后的图
 文件说明：
